@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    background-color: #6278F7;
+    padding: 80px;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.redesSociais {
+    display: flex;
+}
+
+.redesSociais .redes {
+    margin-right: 10%;
+}
+
+.creditos span {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+}
